@@ -11,3 +11,4 @@ Data Visualization
 ## Spacial
 * Choropleth map (aka Heat Map, Filled Map, Thematic Map or Statistical Map)
 * Bubble map
+* Tile Grid map
