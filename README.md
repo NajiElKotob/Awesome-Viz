@@ -9,3 +9,4 @@ Data Visualization
 ## Distribution
 ## Part to whole
 ## Spacial
+* Choropleth map
