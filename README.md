@@ -13,4 +13,5 @@ Data Visualization
 * Bubble map
 * Tile Grid map
 * Symbol map
+* Locator map
 
