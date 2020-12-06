@@ -13,6 +13,7 @@ Data Visualization
 
 #### Over time
 * Line chart
+* Stream graph (aka ThemeRiver)
 
 ### Correlation
 * Scatter chart
