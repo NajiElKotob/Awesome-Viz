@@ -36,5 +36,9 @@ Data Visualization
 * Median
 * Minimum/Maximum
 * Outliers 
+* Skewness 
 * Dispersion (aka variability, scatter, or spread)
+* Chart
+* Graph
+* Visual
 
