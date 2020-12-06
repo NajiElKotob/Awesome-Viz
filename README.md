@@ -6,6 +6,8 @@ Data Visualization
 
 ## Comparison
 * Bar chart
+* Column chart
+* Radar Chart (aka Spider Chart)
 
 ## Correlation
 * Scatter chart
@@ -17,6 +19,7 @@ Data Visualization
 
 ## Part to whole
 * Pie chart
+* Donut chart
 
 ## Spacial
 * Choropleth map (aka Heat Map, Filled Map, Thematic Map or Statistical Map)
