@@ -5,6 +5,7 @@ Data Visualization
 
 
 ## Comparison
+* Bar chart
 ## Correlation
 ## Distribution
 ## Part to whole
