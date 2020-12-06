@@ -13,6 +13,7 @@ Data Visualization
 
 ## Distribution
 * Histogram
+* Box Plots (aka Box and Whisker Plots) 
 
 ## Part to whole
 * Pie chart
