@@ -9,6 +9,7 @@ Data Visualization
 
 ## Correlation
 * Scatter chart
+* Bubble chart
 
 ## Distribution
 * Histogram
