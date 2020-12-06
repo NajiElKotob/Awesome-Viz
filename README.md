@@ -38,6 +38,7 @@ Data Visualization
 * Outliers 
 * Skewness 
 * Dispersion (aka variability, scatter, or spread)
+* Probability density 
 * Chart
 * Graph
 * Visual
