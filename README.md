@@ -3,27 +3,38 @@ Data Visualization
 
 {WIP - Work in Process}
 
-## Comparison
+## Visuals
+
+### Comparison
 * Bar chart
 * Column chart
 * Radar Chart (aka Spider, Web, Star, Cobweb)
 
-## Correlation
+### Correlation
 * Scatter chart
 * Bubble chart
 
-## Distribution
+### Distribution
 * Histogram
 * Box Plots (aka Box and Whisker, Boxplot) 
 
-## Part to whole
+### Part to whole
 * Pie chart
 * Donut chart
 
-## Spacial
-* Choropleth map (aka Heat Map, Filled Map, Thematic Map or Statistical Map)
+### Spacial
+* Choropleth map (aka Heat Map, Filled Map, Thematic Map, Statistical Map)
 * Bubble map
 * Tile Grid map
 * Symbol map
 * Locator map
+
+------
+
+## Terms and Definitions
+* Mean (aka Average)
+* Median
+* Minimum/Maximum
+* Outliers 
+* Dispersion (aka variability, scatter, or spread)
 
