@@ -7,8 +7,12 @@ Data Visualization
 ## Comparison
 * Bar chart
 ## Correlation
+
 ## Distribution
+
 ## Part to whole
+* Pie chart
+
 ## Spacial
 * Choropleth map (aka Heat Map, Filled Map, Thematic Map or Statistical Map)
 * Bubble map
