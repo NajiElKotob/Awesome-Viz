@@ -6,7 +6,9 @@ Data Visualization
 
 ## Comparison
 * Bar chart
+
 ## Correlation
+* Scatter chart
 
 ## Distribution
 
