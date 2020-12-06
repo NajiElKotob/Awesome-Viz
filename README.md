@@ -11,6 +11,7 @@ Data Visualization
 * Scatter chart
 
 ## Distribution
+* Histogram
 
 ## Part to whole
 * Pie chart
