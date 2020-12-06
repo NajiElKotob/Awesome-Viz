@@ -1,13 +1,12 @@
 # Awesome Viz
-{WIP}
-
 Data Visualization
 
+{WIP - Work in Process}
 
 ## Comparison
 * Bar chart
 * Column chart
-* Radar Chart (aka Spider Chart)
+* Radar Chart (aka Spider, Web, Star, Cobweb)
 
 ## Correlation
 * Scatter chart
@@ -15,7 +14,7 @@ Data Visualization
 
 ## Distribution
 * Histogram
-* Box Plots (aka Box and Whisker Plots) 
+* Box Plots (aka Box and Whisker, Boxplot) 
 
 ## Part to whole
 * Pie chart
