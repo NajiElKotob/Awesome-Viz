@@ -6,9 +6,13 @@ Data Visualization
 ## Visuals
 
 ### Comparison
+#### By Category
 * Bar chart
 * Column chart
 * Radar Chart (aka Spider, Web, Star, Cobweb)
+
+#### Over time
+* Line chart
 
 ### Correlation
 * Scatter chart
