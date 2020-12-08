@@ -18,6 +18,7 @@ Data Visualization
 ### Correlation
 * Scatter chart (aka scatterplot, scatter graph, scattergram, scatter diagram)
 * Bubble chart
+* Heat Map (aka Heat Table, Density Table)
 
 ### Distribution
 * Histogram
