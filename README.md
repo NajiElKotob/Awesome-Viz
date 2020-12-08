@@ -16,7 +16,7 @@ Data Visualization
 * Stream graph (aka ThemeRiver)
 
 ### Correlation
-* Scatter chart
+* Scatter chart (aka scatterplot, scatter graph, scattergram, scatter diagram)
 * Bubble chart
 
 ### Distribution
