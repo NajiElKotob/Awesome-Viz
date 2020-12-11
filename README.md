@@ -14,6 +14,7 @@ Data Visualization
 #### Over time
 * Line chart
 * Stream graph (aka ThemeRiver)
+* XmR Chart
 
 ### Correlation
 * Scatter chart (aka scatterplot, scatter graph, scattergram, scatter diagram)
