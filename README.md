@@ -13,6 +13,7 @@ Data Visualization
 
 #### Over time
 * Line chart
+* Slope chart
 * Stream graph (aka ThemeRiver)
 * XmR Chart
 
@@ -32,21 +33,4 @@ Data Visualization
 ### Spacial
 * Choropleth map (aka Heat Map, Filled Map, Thematic Map, Statistical Map)
 * Bubble map
-* Tile Grid map
-* Symbol map
-* Locator map
-
-------
-
-## Terms and Definitions
-* Mean (aka Average)
-* Median
-* Minimum/Maximum
-* Outliers 
-* Skewness 
-* Dispersion (aka variability, scatter, or spread)
-* Probability density 
-* Chart
-* Graph
-* Visual
-
+* Tile Gr
