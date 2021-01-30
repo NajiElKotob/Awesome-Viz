@@ -25,6 +25,7 @@ Data Visualization
 ### Distribution
 * Histogram
 * Box Plots (aka Box and Whisker, Boxplot) 
+  * [Understanding and interpreting box plots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots) - wellbeingatschool.org.nz
 
 ### Part to whole
 * Pie chart
