@@ -33,12 +33,13 @@ Data Visualization
 
 ### Spacial
 * Choropleth map (aka Heat Map, Filled Map, Thematic Map, Statistical Map)
-
+* Bubble map
+* Tile Grid map
+* Shape map
+* 
 -----
 
 ## References
 * [Choosing a good chart](https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) - Dr. Abela
-* Bubble map
-* Tile Grid map
-* Shape map
+
 
