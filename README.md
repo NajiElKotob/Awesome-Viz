@@ -43,6 +43,10 @@ Data Visualization
 ### Single (Present single values)
 * Card
 
+### Tables
+* Table
+* Matrix
+
 -----
 
 ## References
