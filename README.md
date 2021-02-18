@@ -37,6 +37,9 @@ Data Visualization
 * Tile Grid map
 * Shape map
 
+### Flow
+* Funnel charts
+* 
 ### Single (Present single values)
 * Card
 
