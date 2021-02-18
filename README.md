@@ -36,7 +36,10 @@ Data Visualization
 * Bubble map
 * Tile Grid map
 * Shape map
-* 
+
+### Single (Present single values)
+* Card
+
 -----
 
 ## References
