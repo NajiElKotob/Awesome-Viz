@@ -7,11 +7,13 @@ Data Visualization
 
 ### Comparison
 #### By Category
+_Presents specific data across different categories in a stacked or clustered format._
 * Bar chart
 * Column chart
 * Radar Chart (aka Spider, Web, Star, Cobweb)
 
 #### Over time
+_Presents trends over time._
 * Line chart
 * Slope chart
 * Stream graph (aka ThemeRiver)
@@ -28,7 +30,8 @@ Data Visualization
   * [Understanding and interpreting box plots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots) - wellbeingatschool.org.nz
 
 ### Part to whole (Simple compositions)
-* Pie chart
+_shows the relationship of parts to the whole by dividing the data into segments._
+* Pie chartv
 * Donut chart
 
 ### Spacial
