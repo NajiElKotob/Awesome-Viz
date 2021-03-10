@@ -33,6 +33,8 @@ _Presents trends over time._
 _shows the relationship of parts to the whole by dividing the data into segments._
 * Pie chartv
 * Donut chart
+* Treemap
+  * _The rectangles are arranged in size from top left (largest) to bottom right (smallest)._
 
 ### Spacial
 * Choropleth map (aka Heat Map, Filled Map, Thematic Map, Statistical Map)
