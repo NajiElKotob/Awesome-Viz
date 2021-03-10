@@ -34,7 +34,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * Pie chartv
 * Donut chart
 * Treemap
-  * _The rectangles are arranged in size from top left (largest) to bottom right (smallest)._
+  * _Uses rectangles to visualizes the proportions between each part and the whole. The rectangles are arranged in size from top left (largest) to bottom right (smallest)._
 
 ### Spacial
 * Choropleth map (aka Heat Map, Filled Map, Thematic Map, Statistical Map)
