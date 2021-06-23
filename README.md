@@ -56,5 +56,5 @@ _shows the relationship of parts to the whole by dividing the data into segments
 
 ## References
 * [Choosing a good chart](https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) - Dr. Abela
-
+* [Highcharts](https://www.highcharts.com/demo/line-basic) - highcharts.com
 
