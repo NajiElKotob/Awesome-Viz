@@ -44,7 +44,9 @@ _shows the relationship of parts to the whole by dividing the data into segments
 
 ### Flow
 * Funnel charts
-* 
+* Chord chart (aka Radial network diagram, Chord layout, Dependency wheel)
+* Sankey
+
 ### Single (Present single values)
 * Card
 
