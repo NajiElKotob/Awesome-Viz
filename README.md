@@ -1,7 +1,7 @@
 # Awesome Viz
 Data Visualization
 
-{WIP - Work in Process}
+{Awesome Works in Progress}
 
 ## Visuals
 
