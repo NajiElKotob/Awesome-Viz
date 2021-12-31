@@ -28,7 +28,9 @@ _Presents trends over time._
 * Histogram
 * Box Plots (aka Box and Whisker, Boxplot) 
   * [Understanding and interpreting box plots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots) - wellbeingatschool.org.nz
-
+  * Tip! Rotate = Normal distribution
+* Violin Plot
+  * Tip! Violin = Box Plot + Mirrored KDE Plot 
 ### Part to whole (Simple compositions)
 _shows the relationship of parts to the whole by dividing the data into segments._
 * Pie chartv
