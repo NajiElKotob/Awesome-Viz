@@ -61,7 +61,9 @@ _shows the relationship of parts to the whole by dividing the data into segments
 -----
 
 ## References
+### Viz
 * [Power BI Visuals Reference](https://www.sqlbi.com/ref/power-bi-visuals-reference/) - The ultimate reference for Power BI charts and visuals.
 * [Choosing a good chart](https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) - Dr. Abela
 * [Highcharts](https://www.highcharts.com/demo/line-basic) - highcharts.com
-
+### Terms
+* [Chartjunk](https://en.wikipedia.org/wiki/Chartjunk) refers to all visual elements in charts and graphs that are not necessary to comprehend the information represented on the graph, or that distract the viewer from this information.
