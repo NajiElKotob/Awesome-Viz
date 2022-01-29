@@ -67,3 +67,6 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [Highcharts](https://www.highcharts.com/demo/line-basic) - highcharts.com
 ### Terms
 * [Chartjunk](https://en.wikipedia.org/wiki/Chartjunk) refers to all visual elements in charts and graphs that are not necessary to comprehend the information represented on the graph, or that distract the viewer from this information.
+### Rules
+* X = Independent Variable; Y = Dependent Variable
+* Filled shape = base 0; Non-filled shape = #
