@@ -71,3 +71,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * X = Independent Variable; Y = Dependent Variable
 * Filled shape = base 0; Non-filled shape = #
 * Horizontal Box Plots = Shape of data distribution
+
+-----
+## Books
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
