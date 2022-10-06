@@ -17,7 +17,8 @@ _Presents trends over time._
 * Line chart
 * Slope chart
 * Stream graph (aka ThemeRiver)
-* XmR Chart
+* XmR chart
+* Candlestick chart
 
 ### Correlation
 * Scatter chart (aka scatterplot, scatter graph, scattergram, scatter diagram)
