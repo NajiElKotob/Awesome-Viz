@@ -20,4 +20,5 @@
 * Combo chart combines a Column chart displaying the first measure (e.g. Sales revenue) and a Line chart displaying a second measure (Quantity). Each measure is configured on a separate Y-axis.
 * The Treemap shows a hierarchy of categories/sub-categories and weight for each category via area size.
 * Scatter chart is useful for determining the relationship/correlation between two variables. Variables are correlated if they move together.
+* A bubble map uses circles of different size to represent a numeric value on a location. 
 * The histogram chart represents the distribution of continuous variables over a given interval. It presents data by splitting it into intervals known as bins. These bins are consecutive and non-overlapping.
