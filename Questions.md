@@ -4,6 +4,7 @@
 * What is the total revenue? 
 * What is the total sales for the year 2019?
 * Show the sales trend over time (specific period of time)
+* Show percentage distribution of participants (Count) by age group
 * Shows the trend of revenue over quarters and years as lines, each line representing a country. 
 * Display the percentage % of sales by years
 * Display the percentage % of sales by category for each year
