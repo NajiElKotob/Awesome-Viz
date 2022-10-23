@@ -10,3 +10,9 @@
 * Avoid using legends with a single category
 * Gestalt principles
 
+-----
+
+* The Card chart displays a single number value.
+* The Pivot Table displays data as a table with a hierarchy of rows and columns.
+* The Pie chart shows percentages of values between categories, by dividing the pie into proportional segments.
+
