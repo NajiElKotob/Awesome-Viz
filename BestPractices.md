@@ -17,3 +17,4 @@
 * The Pie chart shows percentages of values between categories, by dividing the pie into proportional segments.
 * The Treemap shows a hierarchy of categories/sub-categories and weight for each category via area size.
 * The Line chart shows values over a continuous interval. Mainly used to show trends and data changes over time. It supports multiple data series to compare values and trends.
+* The Column and Bar charts show values side by side as vertical or horizontal bars, across categories. Mainly used for comparison where the users can find out quickly which category is most popular, and which is least.
