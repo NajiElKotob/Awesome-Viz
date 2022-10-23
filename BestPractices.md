@@ -15,4 +15,4 @@
 * The Card chart displays a single number value.
 * The Pivot Table displays data as a table with a hierarchy of rows and columns.
 * The Pie chart shows percentages of values between categories, by dividing the pie into proportional segments.
-
+* The Treemap shows a hierarchy of categories/sub-categories and weight for each category via area size.
