@@ -5,13 +5,13 @@
 * What is the total sales for the year 2019?
 * Show the sales trend over time (specific period of time)
 * Shows the revenue for each quarter of each year, with groups of columns/bars representing the country.
-* Show percentage distribution of participants (Count) by age group
+* Show percentage distribution of participants (Count) by age group 🍩
 * Shows the trend of revenue over quarters and years as lines, each line representing a country. 
 * Display the percentage % of sales by years
 * Display the percentage % of sales by category for each year
-* Which month and year had the most profit?
+* Which month and year had the most profit? 📈📊
 * Where is the company seeing the most success (by country)?
 * Which product and segment should the company continue to invest in?
-* Shows the trend of revenue over months and years as lines, each line representing a country.
+* Shows the trend of revenue over months and years as lines, each line representing a country. 📈
 
 
