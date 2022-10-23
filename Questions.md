@@ -14,5 +14,7 @@
 * Which product and segment should the company continue to invest in?
 * Shows the trend of revenue over months and years as lines, each line representing a country. 📈
 * Show the distribution of the revenue for country, segment and then product. 🌳
+* Display the tock price changes over last ten years
+* Display the website views per month by device type
 
 
