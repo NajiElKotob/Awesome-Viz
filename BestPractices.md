@@ -19,4 +19,4 @@
 * The Pivot Table displays data as a table with a hierarchy of rows and columns.
 * Combo chart combines a Column chart displaying the first measure (e.g. Sales revenue) and a Line chart displaying a second measure (Quantity). Each measure is configured on a separate Y-axis.
 * The Treemap shows a hierarchy of categories/sub-categories and weight for each category via area size.
-
+* Scatter chart is useful for determining the relationship/correlation between two variables. Variables are correlated if they move together.
