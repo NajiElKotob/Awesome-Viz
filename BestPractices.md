@@ -13,7 +13,7 @@
 -----
 
 * The Card chart displays a single number value.
-* The Pie chart shows percentages of values between categories, by dividing the pie into proportional segments.
+* The Pie chart shows percentages of values between categories, by dividing the pie into proportional segments (compare parts of a whole, e.g., monthly sales distribution).
 * The Column and Bar charts show values side by side as vertical or horizontal bars, across categories. Mainly used for comparison (quantities of categories or groups) where the users can find out quickly which category is most popular, and which is least. 
 * The Line chart shows values over a continuous interval. Mainly used to show trends and track changes over time. It supports multiple data series to compare values and trends (trends over time and the relationship between two or more variables).
 * The Pivot Table displays data as a table with a hierarchy of rows and columns.
