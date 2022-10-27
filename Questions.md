@@ -22,5 +22,6 @@
 * Why the sales have decreased or increase for a specific date?
 * The manager needs you to investigate why the sales have decreased by 10%?
 * Where do those fees go? (Flow)
+* What is the expected sales revenue for December 2022?
 
 
