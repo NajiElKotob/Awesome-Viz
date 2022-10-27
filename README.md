@@ -66,6 +66,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [Power BI Visuals Reference](https://www.sqlbi.com/ref/power-bi-visuals-reference/) - The ultimate reference for Power BI charts and visuals.
 * [Choosing a good chart](https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) - Dr. Abela
 * [Highcharts](https://www.highcharts.com/demo/line-basic) - highcharts.com
+* [17 Data Visualization Techniques All Professionals Should Know](https://online.hbs.edu/blog/post/data-visualization-techniques) - online.hbs.edu
 
 ### Books
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
