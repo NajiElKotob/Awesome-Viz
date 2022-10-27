@@ -3,6 +3,7 @@
 * What is the total sales revenue? [Total Sales Revenue Explained](https://www.netsuite.com/portal/resource/articles/financial-management/total-sales-revenue.shtml)
 * What is the total revenue? 
 * What is the total sales for the year 2019?
+* What is the total population of Lebanon?
 * Show the sales trend over time (specific period of time)
 * Shows the revenue for each quarter of each year, with groups of columns/bars representing the country.
 * Show percentage distribution of participants (Count) by age group 🍩
