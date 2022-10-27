@@ -23,5 +23,6 @@
 * The manager needs you to investigate why the sales have decreased by 10%?
 * Where do those fees go? (Flow)
 * What is the expected sales revenue for December 2022?
+* Is there any correlation between customers' email open and purchase behaviors?
 
 
