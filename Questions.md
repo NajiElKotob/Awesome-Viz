@@ -5,6 +5,7 @@
 * What is the total sales for the year 2019?
 * What is the total population of Lebanon?
 * What is the total population of the world? 🌎
+* What is the total number and percentage of persons above 64 years of age covered by private health insurance?
 * Show the sales trend over time (specific period of time)
 * Shows the revenue for each quarter of each year, with groups of columns/bars representing the country.
 * Show percentage distribution of participants (Count) by age group 🍩
