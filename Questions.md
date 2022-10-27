@@ -4,6 +4,7 @@
 * What is the total revenue? 
 * What is the total sales for the year 2019?
 * What is the total population of Lebanon?
+* What is the total population of the world?
 * Show the sales trend over time (specific period of time)
 * Shows the revenue for each quarter of each year, with groups of columns/bars representing the country.
 * Show percentage distribution of participants (Count) by age group 🍩
