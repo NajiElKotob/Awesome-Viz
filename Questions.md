@@ -20,5 +20,6 @@
 * Display the tock price changes over last ten years
 * Display the website views per month by device type
 * Why the sales have decreased or increase for a specific date?
+* The manager needs you to investigate why the sales have decreased by 10%?
 
 
