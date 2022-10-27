@@ -19,5 +19,6 @@
 * Show the distribution of the revenue for country, segment and then product. 🌳
 * Display the tock price changes over last ten years
 * Display the website views per month by device type
+* Why the sales have decreased or increase for a specific date?
 
 
