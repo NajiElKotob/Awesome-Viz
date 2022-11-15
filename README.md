@@ -69,6 +69,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [17 Data Visualization Techniques All Professionals Should Know](https://online.hbs.edu/blog/post/data-visualization-techniques) - online.hbs.edu
 * [6 Data Visualization Examples to Inspire Your Own](https://online.hbs.edu/blog/post/data-visualization-examples) - online.hbs.edu
 * [Visual Analytics](https://www.tableau.com/data-insights/reference-library/visual-analytics) - tableau.com | Families, Types, and Importance
+* [Data visualization principles](http://rafalab.dfci.harvard.edu/dsbook/data-visualization-principles.html#data-visualization-principles) - harvard.edu
 
 ### Books
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
