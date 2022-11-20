@@ -8,10 +8,10 @@
 * What is the total number and percentage of persons above 64 years of age covered by private health insurance?
 * Show the sales trend over time (specific period of time)
 * Shows the revenue for each quarter of each year, with groups of columns/bars representing the country.
-* Show percentage distribution of participants (Count) by age group 🍩
+* Show percentage distribution of participants (Count) by age group. 🍩
 * Shows the trend of revenue over quarters and years as lines, each line representing a country. 
-* Display the percentage % of sales by years
-* Display the percentage % of sales by category for each year
+* Display the percentage % of sales by years.
+* Display the percentage % of sales by category for each year.
 * Which month and year had the most profit? 📈📊
 * Where is the company seeing the most success (by country)?
 * Which product and segment should the company continue to invest in?
@@ -26,6 +26,8 @@
 * Is there any correlation between customers' email open and purchase behaviors?
 * Which year had the highest number of live births? 📊
 * Which company made the most Profit?
-* Top 10 companies by revenue
-* Top 3 countries by annual tourism revenue
+* Top 10 companies by revenue.
+* Top 3 countries by annual tourism revenue.
 * Top 10 most profitable healthcare companies based on profit margin with market caps of at least $100 million
+* Top 10 most profitable companies based on profit after tax margins (Profit after tax margin (PATM) represents the percentage of revenue left after expenses have been subtracted from sales).
+
