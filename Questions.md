@@ -28,3 +28,4 @@
 * Which company made the most Profit?
 * Top 10 companies by revenue
 * Top 3 countries by annual tourism revenue
+* Top 10 most profitable healthcare companies based on profit margin with market caps of at least $100 million
