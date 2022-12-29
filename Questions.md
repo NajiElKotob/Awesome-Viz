@@ -31,4 +31,4 @@
 * Top 10 most profitable healthcare companies based on profit margin with market caps of at least $100 million
 * Top 10 most profitable companies based on profit after tax margins (Profit after tax margin (PATM) represents the percentage of revenue left after expenses have been subtracted from sales).
 * What is the average customer lifetime value (CLV) for our company's different customer segments?
-* 
+* How has our company's revenue and profit changed over the past five years, and what factors have contributed to these changes?
