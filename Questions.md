@@ -30,4 +30,5 @@
 * Top 3 countries by annual tourism revenue.
 * Top 10 most profitable healthcare companies based on profit margin with market caps of at least $100 million
 * Top 10 most profitable companies based on profit after tax margins (Profit after tax margin (PATM) represents the percentage of revenue left after expenses have been subtracted from sales).
-* What is the average customer lifetime value for our company's different customer segments?
+* What is the average customer lifetime value (CLV) for our company's different customer segments?
+* 
