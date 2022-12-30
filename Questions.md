@@ -40,3 +40,4 @@
 * How does our company's employee retention rate compare to that of our competitors, and what strategies can we implement to improve retention?
 * What is the average lead time for our company's sales cycle, and how does this compare to industry benchmarks?
 * How has our company's stock price trended over the past 5 years, and what factors have contributed to these changes?
+* What is the market share of our company's different product lines in each region, and how has this changed over the past year? (Treemap + KPI)
