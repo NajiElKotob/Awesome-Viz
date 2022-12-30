@@ -32,3 +32,4 @@
 * Top 10 most profitable companies based on profit after tax margins (Profit after tax margin (PATM) represents the percentage of revenue left after expenses have been subtracted from sales).
 * What is the average customer lifetime value (CLV) for our company's different customer segments?
 * How has our company's revenue and profit changed over the past five years, and what factors have contributed to these changes?
+* What are the most popular products or services among our customers, and how does this vary by region or demographic?
