@@ -36,3 +36,4 @@
 * What is the average cost of acquiring a new customer, and how does this compare to the average customer lifetime value?
 * How does our company's customer satisfaction rate compare to that of our competitors (benchmarking), and what factors contribute to customer satisfaction?
 * How does our company's market share compare to that of our competitors, and what strategies can we implement to increase our market share?
+* What is the average conversion rate for our online store, and how does this compare to industry benchmarks?
