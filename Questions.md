@@ -33,3 +33,4 @@
 * What is the average customer lifetime value (CLV) for our company's different customer segments?
 * How has our company's revenue and profit changed over the past five years, and what factors have contributed to these changes?
 * What are the most popular products or services among our customers, and how does this vary by region or demographic?
+* What is the average cost of acquiring a new customer, and how does this compare to the average customer lifetime value?
