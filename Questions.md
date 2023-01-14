@@ -75,3 +75,14 @@
 
 ### AdventureWorks DW
 `AdventureWorks is a sample database that was created by Microsoft to demonstrate the features of SQL Server and is commonly used in tutorials and trainings. It is a Data Warehouse (DW) database that is used to support a fictitious bicycle manufacturer called Adventure Works Cycles. The database contains data on the company's products, sales, customers, and employees, and it can be used to support various business intelligence and analytics scenarios. The database includes various tables, views, and stored procedures that can be used to practice and learn data warehousing and business intelligence concepts.`
+
+* What is the total number of products in the AdventureWorks?
+* How many sales transactions were recorded in the AdventureWorks?
+* What is the total number of customers in the AdventureWorks?
+* How many employees does Adventure Works Cycles have in the AdventureWorks?
+* What is the total sales amount for all products in the AdventureWorks DW database?
+* How many different types of products does Adventure Works Cycles sell in the AdventureWorks?
+* What is the total quantity of products sold by Adventure Works Cycles in the AdventureWorks?
+* How many different cities do Adventure Works Cycles' customers reside in the AdventureWorks?
+* What is the total number of orders placed by customers in the AdventureWorks?
+* How many different countries do Adventure Works Cycles' customers reside in the AdventureWorks?
