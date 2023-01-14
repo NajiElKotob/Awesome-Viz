@@ -44,6 +44,26 @@
 
 -----
 
+### IMDb
+#### IMDb Top 250
+* Which decade had the highest number of movies included in the IMDB top 250 movies list?
+* During which decade were the most movies included in the IMDB top 250 movies list produced?
+* What is the distribution of movies included in the IMDB top 250 movies list by the decade in which they were produced?
+* How many of the top-rated movies in the IMDB top 250 movies list were produced in each decade?
+* What is the trend of the number of movies included in the IMDB top 250 movies list by the decade?
+* What are the top-rated genres of movies in the IMDB top 250?
+* How have the ratings of the top-rated movies evolved over time?
+* What are the most common themes among the top-rated movies?
+* How do the budgets of the top-rated movies compare to their IMDB ratings?
+* What are the most common languages spoken in the top-rated movies?
+* Are there any commonalities among the directors of the top-rated movies?
+* What is the distribution of IMDB ratings for the top-rated movies?
+* Are there any correlations between the number of votes and the IMDB ratings for the top-rated movies?
+* Are there any patterns in the top-rated movies based on the length of their runtime?
+* What are the most popular movie production companies among the top-rated movies?
+
+-----
+
 ### Titanic
 * What was the total number of passengers on the Titanic?
 * What was the total number of passengers who survived the Titanic disaster?
