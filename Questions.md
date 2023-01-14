@@ -70,3 +70,8 @@
 * Was there a correlation between the fare paid for a ticket and the survival rate of passengers?
 * How did the age and gender of passengers affect their survival rate on the Titanic?
 * Were there any specific factors that contributed to the survival rate of children on the Titanic?
+
+-----
+
+### AdventureWorks DW
+`AdventureWorks is a sample database that was created by Microsoft to demonstrate the features of SQL Server and is commonly used in tutorials and trainings. It is a Data Warehouse (DW) database that is used to support a fictitious bicycle manufacturer called Adventure Works Cycles. The database contains data on the company's products, sales, customers, and employees, and it can be used to support various business intelligence and analytics scenarios. The database includes various tables, views, and stored procedures that can be used to practice and learn data warehousing and business intelligence concepts.`
