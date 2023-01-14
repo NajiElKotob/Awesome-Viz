@@ -1,5 +1,5 @@
 ## Questions
-
+### General Questions
 * What is the total sales revenue? [Total Sales Revenue Explained](https://www.netsuite.com/portal/resource/articles/financial-management/total-sales-revenue.shtml)
 * What is the total revenue? 
 * What is the total sales for the year 2019?
@@ -41,3 +41,32 @@
 * What is the average lead time for our company's sales cycle, and how does this compare to industry benchmarks?
 * How has our company's stock price trended over the past 5 years, and what factors have contributed to these changes?
 * What is the market share of our company's different product lines in each region, and how has this changed over the past year? (Treemap + KPI)
+
+-----
+
+### Titanic
+* What was the total number of passengers on the Titanic?
+* What was the total number of passengers who survived the Titanic disaster?
+* What was the total number of passengers per class on the Titanic?
+* What was the total number of male and female passengers on the Titanic?
+* What was the total number of children and adults on the Titanic?
+* How many passengers were traveling alone versus with family on the Titanic?
+* What was the total number of passengers who embarked at each port on the Titanic?
+* How many passengers were traveling in first class, second class, and third class on the Titanic?
+* How many passengers paid the highest and lowest fares on the Titanic?
+* What was the total number of passengers who did not survive broken down by age and gender?
+* How did the number of passengers per class compare on the Titanic?
+* What was the composition of passengers by gender and class on the Titanic?
+* What was the distribution of ticket fares among passengers on the Titanic?
+* Was there a trend in survival rate based on the cabin location of passengers on the Titanic?
+* What was the relationship between age and survival rate for passengers on the Titanic?
+* How did the number of siblings/spouses onboard relate to the survival rate of passengers on the Titanic?
+* What was the distribution of passenger fare by port of embarkation on the Titanic?
+* How does the number of parents/children onboard relate to the survival rate of passengers on the Titanic?
+* Was there any trend in the number of passengers per class over the course of the voyage on the Titanic?
+* What was the relationship between fare paid and class for passengers who survived the Titanic disaster?
+* What factors contributed to the survival rate of passengers on the Titanic?
+* How did the ticket class of a passenger affect their chances of survival?
+* Was there a correlation between the fare paid for a ticket and the survival rate of passengers?
+* How did the age and gender of passengers affect their survival rate on the Titanic?
+* Were there any specific factors that contributed to the survival rate of children on the Titanic?
