@@ -86,3 +86,13 @@
 * How many different cities do Adventure Works Cycles' customers reside in the AdventureWorks?
 * What is the total number of orders placed by customers in the AdventureWorks?
 * How many different countries do Adventure Works Cycles' customers reside in the AdventureWorks?
+* What are the top-selling products for Adventure Works Cycles in the AdventureWorks and what factors contribute to their popularity?
+* How does the sales performance of Adventure Works Cycles products compare by different geographic regions in the AdventureWorks?
+* Can you identify any seasonality in the sales data for Adventure Works Cycles products in the AdventureWorks?
+* What is the customer segmentation based on purchase behavior and demographics in the AdventureWorks?
+* Are there any patterns in the sales data that indicate potential sales promotions or discounts in the AdventureWorks?
+* How does the company's inventory levels and stock turnover rate compare across different products in the AdventureWorks?
+* What is the impact of different marketing channels on the sales performance of Adventure Works Cycles products in the AdventureWorks?
+* What is the relationship between customer satisfaction and sales performance in the AdventureWorks?
+* Can you identify any trends in the customer demographics and purchasing behavior over time in the AdventureWorks?
+* How does the sales performance of Adventure Works Cycles products compare to industry averages and competitors in the AdventureWorks?
