@@ -88,6 +88,21 @@
 
 -----
 
+### Public Budgetting
+`These questions can be used to gain insights into the budget allocation of a city or municipality, such as identifying areas of over or under spending, identifying departments that may need more or less funding, and understanding the revenue sources of the city.`
+* What is the breakdown of expenses by department?
+* How has the budget for different departments changed over time?
+* What percentage of the budget is allocated to different expenditure categories such as education, public safety, and infrastructure?
+* How does the budget for a particular department compare to the national average for similar departments?
+* How has the budget for a particular department changed over time?
+* What is the per capita spending for each category of expenditure?
+* How does the budget for a particular department compare to the budget for similar departments in other cities?
+* What is the breakdown of revenue by source?
+* How has the overall budget changed over time?
+* How does the budget for a particular department compare to the department's actual spending?
+
+-----
+
 
 ### Titanic
 * What was the total number of passengers on the Titanic?
