@@ -105,6 +105,7 @@
 
 
 ### Titanic
+`These questions can be used to gain insights into the factors that contributed to survival on the Titanic, such as identifying groups of people that were more likely to survive, understanding the relationship between fare price and survival, and understanding the role of family and travel companions in survival.`
 * What was the total number of passengers on the Titanic?
 * What was the total number of passengers who survived the Titanic disaster?
 * What was the total number of passengers per class on the Titanic?
@@ -130,6 +131,16 @@
 * Was there a correlation between the fare paid for a ticket and the survival rate of passengers?
 * How did the age and gender of passengers affect their survival rate on the Titanic?
 * Were there any specific factors that contributed to the survival rate of children on the Titanic?
+* What was the survival rate for different passenger classes?
+* How did the survival rate vary by gender?
+* How did the survival rate vary by age group?
+* What factors were most strongly associated with survival?
+* How did the survival rate vary by fare price?
+* How many family members were traveling together?
+* How did the survival rate vary by port of embarkation?
+* What was the average fare price for passengers that survived?
+* How many passengers were traveling alone?
+* How many passengers were traveling with children?
 
 -----
 
