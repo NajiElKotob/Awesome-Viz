@@ -65,6 +65,18 @@
 
 -----
 
+### Airbnb
+* Overview: A high-level summary of the number of bookings, revenue, and occupancy rate.
+* Bookings: A breakdown of bookings by month, with the ability to filter by location and property type.
+* Revenue: A breakdown of revenue by month, with the ability to filter by location and property type.
+* Occupancy: A breakdown of occupancy rate by month, with the ability to filter by location and property type.
+* Reviews: A breakdown of reviews by location, with the ability to filter by property type and review scores.
+* Demographics: A breakdown of bookings by demographic data, including age, gender, and location.
+* Property Types: A breakdown of bookings by property type, with the ability to filter by location.
+
+-----
+
+
 ### Titanic
 * What was the total number of passengers on the Titanic?
 * What was the total number of passengers who survived the Titanic disaster?
