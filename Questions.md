@@ -66,6 +66,7 @@
 -----
 
 ### Airbnb
+`These questions can be used to gain insights into the performance of an Airbnb business, such as identifying areas for improvement, identifying high-performing properties, and understanding customer behavior.`
 
 * Overview: A high-level summary of the number of bookings, revenue, and occupancy rate.
 * Bookings: A breakdown of bookings by month, with the ability to filter by location and property type.
