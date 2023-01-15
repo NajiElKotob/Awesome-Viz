@@ -66,6 +66,7 @@
 -----
 
 ### Airbnb
+
 * Overview: A high-level summary of the number of bookings, revenue, and occupancy rate.
 * Bookings: A breakdown of bookings by month, with the ability to filter by location and property type.
 * Revenue: A breakdown of revenue by month, with the ability to filter by location and property type.
@@ -73,6 +74,16 @@
 * Reviews: A breakdown of reviews by location, with the ability to filter by property type and review scores.
 * Demographics: A breakdown of bookings by demographic data, including age, gender, and location.
 * Property Types: A breakdown of bookings by property type, with the ability to filter by location.
+* What is the average daily rate for properties in different regions?
+* How do booking rates vary by property type (e.g. private room, entire home, shared room)?
+* How do occupancy rates vary by season?
+* What is the average length of stay for guests?
+* How do review scores vary by property type and location?
+* How do prices vary by neighborhood within a city?
+* How does the number of bookings change over time?
+* What is the most common cancellation reason?
+* How does the number of bookings relate to the number of properties available?
+* How does the number of bookings relate to the number of reviews?
 
 -----
 
