@@ -167,3 +167,8 @@
 * What is the relationship between customer satisfaction and sales performance in the AdventureWorks?
 * Can you identify any trends in the customer demographics and purchasing behavior over time in the AdventureWorks?
 * How does the sales performance of Adventure Works Cycles products compare to industry averages and competitors in the AdventureWorks?
+* Customers/Orders
+   * List the names of the customers and the corresponding number of orders they placed.
+   * Name the customers and indicate the number of orders they placed.
+   * Create a list of customer names and the number of orders they placed.
+   * Present the names of the customers and the number of orders they placed.
