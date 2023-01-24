@@ -42,6 +42,19 @@
 * How has our company's stock price trended over the past 5 years, and what factors have contributed to these changes?
 * What is the market share of our company's different product lines in each region, and how has this changed over the past year? (Treemap + KPI)
 
+#### Correlation/Relationship
+* What is the correlation between variable A and variable B?
+* How does variable A affect variable B?
+* Is there a significant difference between variable A and variable B?
+* What is the relationship between variable A and variable B?
+* How does variable B change when variable A increases/decreases?
+* What is the distribution of variable A and variable B?
+* How does variable A and variable B compare over time?
+* Is there a positive/negative correlation between variable A and variable B?
+* How does variable A and variable B compare across different categories?
+* Does variable A influence variable B?
+
+
 -----
 
 ### IMDb
