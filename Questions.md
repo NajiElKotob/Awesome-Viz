@@ -56,7 +56,7 @@
 
 -----
 
-### Finance Report
+### Financial Sample Dataset
 * [Reference](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report)
 * What is the total sales, unit sold and profit?
 * Which segment has the highest profit margin?
