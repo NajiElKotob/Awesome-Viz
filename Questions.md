@@ -54,6 +54,19 @@
 * How does variable A and variable B compare across different categories?
 * Does variable A influence variable B?
 
+-----
+
+### Finance Report
+* [Reference](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report)
+* What is the total sales, unit sold and profit?
+* Which segment has the highest profit margin?
+* How have sales and profit changed over time? 
+* What is the relationship between units sold, sales and profit for each country and segment? 
+* How is the sales and profit distributed across segments within each country?
+* Which month and year had the most profit?
+* Where is the company seeing the most success (by country/region)?
+* Which product and segment should the company continue to invest in?
+
 
 -----
 
