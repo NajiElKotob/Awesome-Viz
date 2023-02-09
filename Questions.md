@@ -41,6 +41,9 @@
 * What is the average lead time for our company's sales cycle, and how does this compare to industry benchmarks?
 * How has our company's stock price trended over the past 5 years, and what factors have contributed to these changes?
 * What is the market share of our company's different product lines in each region, and how has this changed over the past year? (Treemap + KPI)
+* What are the data showing? 
+* Why are sales trending upward/downward? 
+* What should the sales team do to continue to increase sales?
 
 #### Correlation/Relationship
 * What is the correlation between variable A and variable B?
