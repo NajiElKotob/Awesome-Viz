@@ -8,7 +8,7 @@ Data Visualization
 ### Comparison
 #### By Category
 _Presents specific data across different categories in a stacked or clustered format._
-* Bar chart
+* Bar chart مخطط شريطي
 * Column chart
 * Radar Chart (aka Spider, Web, Star, Cobweb)
 
