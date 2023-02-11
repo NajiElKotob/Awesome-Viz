@@ -91,6 +91,11 @@
 * Are there any correlations between the number of votes and the IMDB ratings for the top-rated movies?
 * Are there any patterns in the top-rated movies based on the length of their runtime?
 * What are the most popular movie production companies among the top-rated movies?
+* What decade saw the most movie releases?
+* Which 10-year period had the largest number of film releases?
+* During which decade was the largest number of films produced?
+* In which decade did the movie industry see the highest output of film releases?
+* What was the decade with the most movie releases?
 
 -----
 
