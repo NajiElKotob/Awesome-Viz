@@ -71,5 +71,8 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [Visual Analytics](https://www.tableau.com/data-insights/reference-library/visual-analytics) - tableau.com | Families, Types, and Importance
 * [Data visualization principles](http://rafalab.dfci.harvard.edu/dsbook/data-visualization-principles.html#data-visualization-principles) - harvard.edu
 
+### Illusions
+* [Optical Illusions in Visualizations](https://kleeen.software/2019/08/21/optical-illusions-in-visualizations/)
+
 ### Books
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
