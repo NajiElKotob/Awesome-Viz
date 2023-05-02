@@ -20,7 +20,7 @@ _Presents trends over time._
 * Candlestick chart
 
 ### Statistical Process Control (SPC)
-* XmR chart
+* XmR chart (Individuals and Moving Range chart) - Monitors individual data points and their moving range.
 
 ### Correlation
 * Scatter chart (aka scatterplot, scatter graph, scattergram, scatter diagram)
