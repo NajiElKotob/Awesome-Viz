@@ -24,6 +24,9 @@ _Presents trends over time._
 * Xbar-R chart (Mean and Range chart) - Monitors the process mean and range of subgroups.
 * Xbar-S chart (Mean and Standard Deviation chart) - Monitors the process mean and standard deviation of subgroups.
 * p-chart (Proportion Defective chart) - Monitors the proportion of defective items in a sample.
+* np-chart (Number of Defectives chart) - Monitors the number of defective items in a sample.
+* c-chart (Defects per Unit chart) - Monitors the number of defects per unit in a sample.
+* u-chart (Defects per Inspection Unit chart) - Monitors the number of defects per inspection unit in a sample.
 
 ### Correlation
 * Scatter chart (aka scatterplot, scatter graph, scattergram, scatter diagram)
