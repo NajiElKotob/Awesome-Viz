@@ -23,6 +23,7 @@ _Presents trends over time._
 * XmR chart (Individuals and Moving Range chart) - Monitors individual data points and their moving range.
 * Xbar-R chart (Mean and Range chart) - Monitors the process mean and range of subgroups.
 * Xbar-S chart (Mean and Standard Deviation chart) - Monitors the process mean and standard deviation of subgroups.
+* p-chart (Proportion Defective chart) - Monitors the proportion of defective items in a sample.
 
 ### Correlation
 * Scatter chart (aka scatterplot, scatter graph, scattergram, scatter diagram)
