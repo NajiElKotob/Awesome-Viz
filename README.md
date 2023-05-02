@@ -14,7 +14,7 @@ _Presents specific data across different categories in a stacked or clustered fo
 
 #### Over time
 _Presents trends over time._
-* Line chart
+* Line chart (aka Line graph or Line plot)
 * Slope chart
 * Stream graph (aka ThemeRiver)
 * Candlestick chart
