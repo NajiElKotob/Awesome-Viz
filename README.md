@@ -17,8 +17,10 @@ _Presents trends over time._
 * Line chart
 * Slope chart
 * Stream graph (aka ThemeRiver)
-* XmR chart
 * Candlestick chart
+
+### Statistical Process Control (SPC)
+* XmR chart
 
 ### Correlation
 * Scatter chart (aka scatterplot, scatter graph, scattergram, scatter diagram)
