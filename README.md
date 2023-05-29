@@ -34,7 +34,7 @@ _Presents trends over time._
 * Heat Map (aka Heat Table, Density Table)
 
 ### Distribution
-* Histogram
+* Histogram (aka Frequency Distribution Chart)
 * Box Plots (aka Box and Whisker, Boxplot) 
   * [Understanding and interpreting box plots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots) - wellbeingatschool.org.nz
   * Tip! Rotate = Normal distribution
