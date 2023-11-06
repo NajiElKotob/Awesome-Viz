@@ -44,6 +44,7 @@
 * What are the data showing? 
 * Why are sales trending upward/downward? 
 * What should the sales team do to continue to increase sales?
+* Create a visualization that illustrates the proportion of total annual profits contributed by each region, effectively showing each region's part-to-whole relationship with the overall profits? 🍩
 
 #### Correlation/Relationship
 * What is the correlation between variable A and variable B?
