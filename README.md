@@ -8,8 +8,7 @@ Data Visualization
 ### Comparison
 #### By Category
 _Presents specific data across different categories in a stacked or clustered format._
-* Bar chart مخطط شريطي
-* Column chart
+* Bar and Column charts – Excellent for comparing values across different categories. Bar charts (horizontal) are particularly useful when category names are long, while column charts (vertical) are better suited for a smaller number of categories.
 * Radar Chart (aka Spider, Web, Star, Cobweb)
 
 #### Over time
