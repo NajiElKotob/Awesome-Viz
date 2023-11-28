@@ -13,7 +13,7 @@ _Presents specific data across different categories in a stacked or clustered fo
 
 #### Over time
 _Presents trends over time._
-* Line chart (aka Line graph or Line plot)
+* Line chart (aka Line graph or Line plot) – Best for showing trends over time, especially when you have many data points. They are useful for tracking changes in one or more series of data.
 * Slope chart
 * Stream graph (aka ThemeRiver)
 * Candlestick chart
