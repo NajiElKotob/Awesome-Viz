@@ -61,7 +61,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * Sankey
 
 ### Single (Present single values)
-* Card
+* Card – Ideal for displaying single, critical metrics such as total sales or current year revenue. They provide a clear and concise summary of a key value at a glance.
 
 ### Tables
 * Table
