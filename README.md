@@ -41,7 +41,7 @@ _Presents trends over time._
   * Tip! Violin = Box Plot + Mirrored KDE Plot 
 ### Part to whole (Simple compositions)
 _shows the relationship of parts to the whole by dividing the data into segments._
-* Pie chartv
+* Pie chart
 * Donut chart
 * Treemap
   * _Uses rectangles to visualizes the proportions between each part and the whole. The rectangles are arranged in size from top left (largest) to bottom right (smallest)._
