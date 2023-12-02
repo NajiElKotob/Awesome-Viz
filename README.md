@@ -68,7 +68,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 
 -----
 
-## References
+## References and Articles
 ### Viz
 * [Power BI Visuals Reference](https://www.sqlbi.com/ref/power-bi-visuals-reference/) - The ultimate reference for Power BI charts and visuals.
 * [Choosing a good chart](https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) - Dr. Abela
@@ -77,6 +77,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [6 Data Visualization Examples to Inspire Your Own](https://online.hbs.edu/blog/post/data-visualization-examples) - online.hbs.edu
 * [Visual Analytics](https://www.tableau.com/data-insights/reference-library/visual-analytics) - tableau.com | Families, Types, and Importance
 * [Data visualization principles](http://rafalab.dfci.harvard.edu/dsbook/data-visualization-principles.html#data-visualization-principles) - harvard.edu
+* [Visualizing Incomplete and Missing Data](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/) - Nathan Yau
 
 ## Videos
 * [Using Design Techniques for Clear and Appealing Data Visualization ~4min](https://www.youtube.com/watch?v=0Smgm2UTUSo) - nullQueries
