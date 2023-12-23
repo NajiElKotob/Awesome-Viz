@@ -10,6 +10,7 @@
 * Avoid using legends with a single category
 * Gestalt principles
 * Dimensions help in defining context + slice and dice our analysis
+* Margin sizes should be equal on the left and right, with possible variation on the top and bottom.
 
 
 -----
