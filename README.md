@@ -78,6 +78,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [Visual Analytics](https://www.tableau.com/data-insights/reference-library/visual-analytics) - tableau.com | Families, Types, and Importance
 * [Data visualization principles](http://rafalab.dfci.harvard.edu/dsbook/data-visualization-principles.html#data-visualization-principles) - harvard.edu
 * [Visualizing Incomplete and Missing Data](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/) - Nathan Yau
+* [Visualization types in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a) - learn.microsoft.com
 
 ## Videos
 * [Using Design Techniques for Clear and Appealing Data Visualization ~4min](https://www.youtube.com/watch?v=0Smgm2UTUSo) - nullQueries
