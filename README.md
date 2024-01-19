@@ -83,6 +83,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 ### Articles
 * [Which visualization types did you create this year? | 2013 – 2023](https://blog.datawrapper.de/popular-chart-types-2023/) - datawrapper.de
 * [Actual Vs. Budget: Which visualization is most effective?](https://powerbi.microsoft.com/en-ca/blog/actual-vs-budget-which-chart-is-effective/) - powerbi.microsoft.com | Miranda Li
+* [Visualizing Incomplete and Missing Data](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/) - flowingdata.com
 
 ## Videos
 * [Using Design Techniques for Clear and Appealing Data Visualization ~4min](https://www.youtube.com/watch?v=0Smgm2UTUSo) - nullQueries
