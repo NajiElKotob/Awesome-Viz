@@ -79,6 +79,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [Data visualization principles](http://rafalab.dfci.harvard.edu/dsbook/data-visualization-principles.html#data-visualization-principles) - harvard.edu
 * [Visualizing Incomplete and Missing Data](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/) - Nathan Yau
 * [Visualization types in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a) - learn.microsoft.com
+* [FlowingData](https://flowingdata.com/category/tutorials/) - flowingdata.com | Visualize your data like an expert with hundreds of practical how-tos for presentation, analysis, and understanding.
 
 ### Articles
 * [Which visualization types did you create this year? | 2013 – 2023](https://blog.datawrapper.de/popular-chart-types-2023/) - datawrapper.de
