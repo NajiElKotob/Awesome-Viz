@@ -86,7 +86,11 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [Actual Vs. Budget: Which visualization is most effective?](https://powerbi.microsoft.com/en-ca/blog/actual-vs-budget-which-chart-is-effective/) - powerbi.microsoft.com | Miranda Li
 * [Visualizing Incomplete and Missing Data](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/) - flowingdata.com
 * [Unlocking the Potential of Power BI's Built-In Visuals](https://www.linkedin.com/pulse/unlocking-potential-power-bis-built-in-visuals-naji-el-kotob-sdi7f/) - Naji El Kotob
+
+### Illusion
+* [Akiyoshi Kitaoka](https://x.com/AkiyoshiKitaoka) - @AkiyoshiKitaoka 🐤
 * [Optical Illusions and Data Visualization](https://www.cleartelligence.com/post/optical-illusions-and-data-visualization) - cleartelligence.com
+
 
 ### Interpreting Data Visualizations
 * [Interpreting Data Visualizations: The basics: Home](https://guides.zsr.wfu.edu/interpretdataviz) - wfu.edu
