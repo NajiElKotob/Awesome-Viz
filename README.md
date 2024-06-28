@@ -71,6 +71,8 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * Power BI
 * Tableau
 * Qlik
+* Looker Studio
+* [Maptitude](https://www.caliper.com/maptsamp.htm) - caliper.com | Maptitude GIS and mapping software is the most capable and cost-effective map maker.
 
 
 -----
