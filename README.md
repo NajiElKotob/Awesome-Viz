@@ -67,7 +67,13 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * Matrix
 
 -----
+## Data Visualization Tools
+* Power BI
+* Tableau
+* Qlik
 
+
+-----
 ## References and Articles
 ### Viz
 * [Power BI Visuals Reference](https://www.sqlbi.com/ref/power-bi-visuals-reference/) - The ultimate reference for Power BI charts and visuals.
