@@ -100,6 +100,8 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [Akiyoshi Kitaoka](https://x.com/AkiyoshiKitaoka) - @AkiyoshiKitaoka 🐤
 * [Optical Illusions and Data Visualization](https://www.cleartelligence.com/post/optical-illusions-and-data-visualization) - cleartelligence.com
 
+### Legends
+* [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) - wikipedia.org
 
 ### Interpreting Data Visualizations
 * [Interpreting Data Visualizations: The basics: Home](https://guides.zsr.wfu.edu/interpretdataviz) - wfu.edu
