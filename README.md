@@ -93,7 +93,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 
 ### Ideas and Inspiration
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - public.tableau.com | See new and inspiring data visualizations featured every weekday
-
+* [Pinterest (Dashboard)](https://www.pinterest.com/search/pins/?q=Dashboard&rs=typed) - pinterest.com
 
 ### Articles
 * [Which visualization types did you create this year? | 2013 – 2023](https://blog.datawrapper.de/popular-chart-types-2023/) - datawrapper.de
