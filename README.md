@@ -91,6 +91,10 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [The Right Stuff: Chart Types and Visualization Best (and Worst) Practices](https://hbr.org/webinar/2018/02/the-right-stuff-chart-types-and-visualization-best-and-worst-practices) - hbr.org
 * [Five charts that changed the world 📺](https://www.youtube.com/watch?v=CqkCUDesG5o) - BBC Ideas
 
+### Ideas and Inspiration
+* [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - public.tableau.com | See new and inspiring data visualizations featured every weekday
+
+
 ### Articles
 * [Which visualization types did you create this year? | 2013 – 2023](https://blog.datawrapper.de/popular-chart-types-2023/) - datawrapper.de
 * [Actual Vs. Budget: Which visualization is most effective?](https://powerbi.microsoft.com/en-ca/blog/actual-vs-budget-which-chart-is-effective/) - powerbi.microsoft.com | Miranda Li
@@ -101,6 +105,7 @@ _shows the relationship of parts to the whole by dividing the data into segments
 ### Illusion
 * [Akiyoshi Kitaoka](https://x.com/AkiyoshiKitaoka) - @AkiyoshiKitaoka 🐤
 * [Optical Illusions and Data Visualization](https://www.cleartelligence.com/post/optical-illusions-and-data-visualization) - cleartelligence.com
+* [Optical Illusions in Visualizations](https://kleeen.software/2019/08/21/optical-illusions-in-visualizations/) - kleeen.software
 
 ### Legends
 * [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) - wikipedia.org
@@ -112,8 +117,6 @@ _shows the relationship of parts to the whole by dividing the data into segments
 ## Videos
 * [Using Design Techniques for Clear and Appealing Data Visualization ~4min](https://www.youtube.com/watch?v=0Smgm2UTUSo) - nullQueries
 
-### Illusions
-* [Optical Illusions in Visualizations](https://kleeen.software/2019/08/21/optical-illusions-in-visualizations/)
 
 ### Books
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
