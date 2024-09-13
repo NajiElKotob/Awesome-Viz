@@ -19,15 +19,6 @@ _Presents trends over time._
 * Candlestick chart
 * Warming stripes
   
-### Statistical Process Control (SPC)
-* XmR chart (Individuals and Moving Range chart) - Monitors individual data points and their moving range.
-* Xbar-R chart (Mean and Range chart) - Monitors the process mean and range of subgroups.
-* Xbar-S chart (Mean and Standard Deviation chart) - Monitors the process mean and standard deviation of subgroups.
-* p-chart (Proportion Defective chart) - Monitors the proportion of defective items in a sample.
-* np-chart (Number of Defectives chart) - Monitors the number of defective items in a sample.
-* c-chart (Defects per Unit chart) - Monitors the number of defects per unit in a sample.
-* u-chart (Defects per Inspection Unit chart) - Monitors the number of defects per inspection unit in a sample.
-
 ### Correlation
 * Scatter chart (aka scatterplot, scatter graph, scattergram, scatter diagram)
 * Bubble chart
@@ -39,7 +30,8 @@ _Presents trends over time._
   * [Understanding and interpreting box plots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots) - wellbeingatschool.org.nz
   * Tip! Rotate = Normal distribution
 * Violin Plot
-  * Tip! Violin = Box Plot + Mirrored KDE Plot 
+  * Tip! Violin = Box Plot + Mirrored KDE Plot
+    
 ### Part to whole (Simple compositions)
 _shows the relationship of parts to the whole by dividing the data into segments._
 * Pie chart
@@ -47,7 +39,6 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * Treemap
   * _Uses rectangles to visualizes the proportions between each part and the whole. The rectangles are arranged in size from top left (largest) to bottom right (smallest)._
 * Coxcomb chart
-
 
 ### Spacial
 * Choropleth map (aka Heat Map, Filled Map, Thematic Map, Statistical Map)
@@ -66,6 +57,16 @@ _shows the relationship of parts to the whole by dividing the data into segments
 ### Tables
 * Table
 * Matrix
+
+### Statistical Process Control (SPC)
+`Control Chart (also known as a Shewhart Chart or Process-Behavior Chart). Control charts are widely used in statistical process control to monitor, control, and improve process performance over time.`
+* XmR chart (Individuals and Moving Range chart) - Monitors individual data points and their moving range.
+* Xbar-R chart (Mean and Range chart) - Monitors the process mean and range of subgroups.
+* Xbar-S chart (Mean and Standard Deviation chart) - Monitors the process mean and standard deviation of subgroups.
+* p-chart (Proportion Defective chart) - Monitors the proportion of defective items in a sample.
+* np-chart (Number of Defectives chart) - Monitors the number of defective items in a sample.
+* c-chart (Defects per Unit chart) - Monitors the number of defects per unit in a sample.
+* u-chart (Defects per Inspection Unit chart) - Monitors the number of defects per inspection unit in a sample.
 
 -----
 ## Data Visualization Tools
