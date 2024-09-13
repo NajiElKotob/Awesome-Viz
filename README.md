@@ -7,12 +7,12 @@ Data Visualization
 
 ### Comparison
 #### By Category
-_Presents specific data across different categories in a stacked or clustered format._
+`Presents specific data across different categories in a stacked or clustered format.`
 * Bar and Column charts – Excellent for comparing values across different categories. Bar charts (horizontal) are particularly useful when category names are long, while column charts (vertical) are better suited for a smaller number of categories.
 * Radar Chart (aka Spider, Web, Star, Cobweb)
 
 #### Over time
-_Presents trends over time._
+`Presents trends over time.`
 * Line chart (aka Line graph or Line plot) – Best for showing trends over time, especially when you have many data points. They are useful for tracking changes in one or more series of data.
 * Slope chart
 * Stream graph (aka ThemeRiver)
@@ -33,7 +33,7 @@ _Presents trends over time._
   * Tip! Violin = Box Plot + Mirrored KDE Plot
     
 ### Part to whole (Simple compositions)
-_shows the relationship of parts to the whole by dividing the data into segments._
+`Shows the relationship of parts to the whole by dividing the data into segments.`
 * Pie chart
 * Donut chart
 * Treemap
