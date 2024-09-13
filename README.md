@@ -17,7 +17,8 @@ _Presents trends over time._
 * Slope chart
 * Stream graph (aka ThemeRiver)
 * Candlestick chart
-
+* Warming stripes
+  
 ### Statistical Process Control (SPC)
 * XmR chart (Individuals and Moving Range chart) - Monitors individual data points and their moving range.
 * Xbar-R chart (Mean and Range chart) - Monitors the process mean and range of subgroups.
