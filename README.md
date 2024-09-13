@@ -122,3 +122,6 @@ _shows the relationship of parts to the whole by dividing the data into segments
 
 ### Books
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
+
+### People
+* [William Playfair](https://www.historyofinformation.com/detail.php?id=2527)
