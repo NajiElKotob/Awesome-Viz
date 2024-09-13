@@ -115,9 +115,6 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [Optical Illusions and Data Visualization](https://www.cleartelligence.com/post/optical-illusions-and-data-visualization) - cleartelligence.com
 * [Optical Illusions in Visualizations](https://kleeen.software/2019/08/21/optical-illusions-in-visualizations/) - kleeen.software
 
-### Legends
-* [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) - wikipedia.org
-
 ### Interpreting Data Visualizations
 * [Interpreting Data Visualizations: The basics: Home](https://guides.zsr.wfu.edu/interpretdataviz) - wfu.edu
 * [Interpreting Graphs and Charts](https://uen.pressbooks.pub/uvumqr/chapter/4-4-reading-and-interpreting-graphs-and-charts/) - Numeracy
