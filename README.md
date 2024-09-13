@@ -127,3 +127,4 @@ _shows the relationship of parts to the whole by dividing the data into segments
 * [William Playfair](https://www.historyofinformation.com/detail.php?id=2527)
 * [W.E.B. Du Bois](https://www.britannica.com/biography/W-E-B-Du-Bois)
 * Henry Goddard
+* Ed Hawkins
