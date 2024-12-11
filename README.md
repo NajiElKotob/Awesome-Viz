@@ -36,7 +36,8 @@ Data Visualization
 `Shows the relationship of parts to the whole by dividing the data into segments.`
 * Pie chart
 * Donut chart
-* Treemap
+* Radial شعاعي
+* Treemap مخطط هيكلي
   * _Uses rectangles to visualizes the proportions between each part and the whole. The rectangles are arranged in size from top left (largest) to bottom right (smallest)._
 * Coxcomb chart
 
