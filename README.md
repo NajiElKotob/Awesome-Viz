@@ -20,7 +20,7 @@ Data Visualization
 * Warming stripes
   
 ### Correlation
-* Scatter chart (aka scatterplot, scatter graph, scattergram, scatter diagram)
+* Scatter chart المخطط البياني المبعثر (aka scatterplot, scatter graph, scattergram, scatter diagram)
 * Bubble chart
 * Heat Map (aka Heat Table, Density Table)
 
