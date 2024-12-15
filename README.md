@@ -78,6 +78,9 @@ Data Visualization
 * Looker Studio
 * [Maptitude](https://www.caliper.com/maptsamp.htm) - caliper.com | Maptitude GIS and mapping software is the most capable and cost-effective map maker.
 
+## Open Source Viz
+* Vega
+* [Apache ECharts](https://echarts.apache.org) - echarts.apache.org
 
 -----
 ## References and Articles
