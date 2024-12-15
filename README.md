@@ -80,6 +80,7 @@ Data Visualization
 
 ## Open Source Viz
 * Vega
+* [D3.js](https://d3js.org/) - d3js.org
 * [Apache ECharts](https://echarts.apache.org) - echarts.apache.org
 
 -----
