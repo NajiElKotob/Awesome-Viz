@@ -82,6 +82,7 @@ Data Visualization
 * Vega
 * [D3.js](https://d3js.org/) - d3js.org
 * [Apache ECharts](https://echarts.apache.org) - echarts.apache.org
+* [deck.gl](https://deck.gl/) - deck.gl | deck.gl is a GPU-powered framework for visual exploratory data analysis of large datasets.
 
 -----
 ## References and Articles
