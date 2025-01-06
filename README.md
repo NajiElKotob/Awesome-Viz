@@ -124,6 +124,7 @@ Data Visualization
 * [Optical Illusions and Data Visualization](https://www.cleartelligence.com/post/optical-illusions-and-data-visualization) - cleartelligence.com
 * [Optical Illusions in Visualizations](https://kleeen.software/2019/08/21/optical-illusions-in-visualizations/) - kleeen.software
 * [Perspectives](https://x.com/Rainmaker1973/status/1848643503456199076?t=Cibs2UOtaBq-IRSarBSKfA) - Massimo
+* [Interactive Optical Illusion](https://x.com/Rainmaker1973/status/1855607853232308250) - Massimo
 
 
 ### Interpreting Data Visualizations
