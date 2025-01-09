@@ -21,6 +21,7 @@ Data Visualization
   
 ### Correlation
 * Scatter chart المخطط البياني المبعثر (aka scatterplot, scatter graph, scattergram, scatter diagram)
+* Volcano plot
 * Bubble chart
 * Heat Map (aka Heat Table, Density Table)
 
