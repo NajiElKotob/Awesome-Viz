@@ -138,6 +138,7 @@ Data Visualization
 
 ### Books
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
+* [Jonathan Schwabish (PolicyViz)](https://policyviz.com/books/)
 
 ### People
 * [William Playfair](https://www.historyofinformation.com/detail.php?id=2527)
