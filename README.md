@@ -107,6 +107,7 @@ Data Visualization
 * [Pinterest (Dashboard)](https://www.pinterest.com/search/pins/?q=Dashboard&rs=typed) - pinterest.com
 * [Dribbble (Dashboard)](https://dribbble.com/search/dashboard) - dribbble.com
 * [Figma (Dashboard Design)](https://www.figma.com/templates/dashboard-designs/) - figma.com
+* [What’s Going On in This Graph? | U.S. Temperature Trends](https://www.nytimes.com/2022/12/07/learning/whats-going-on-in-this-graph-dec-14-2022.html) - nytimes.com
 
 ### Articles
 * [Which visualization types did you create this year? | 2013 – 2023](https://blog.datawrapper.de/popular-chart-types-2023/) - datawrapper.de
