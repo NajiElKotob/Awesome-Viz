@@ -33,7 +33,7 @@ Data Visualization
 * Violin Plot
   * Tip! Violin = Box Plot + Mirrored KDE Plot
     
-### Part to whole (Simple compositions)
+### Part to whole (Compositions)
 `Shows the relationship of parts to the whole by dividing the data into segments.`
 * Pie chart
 * Donut chart
@@ -42,6 +42,7 @@ Data Visualization
 * Treemap مخطط هيكلي
   * _Uses rectangles to visualizes the proportions between each part and the whole. The rectangles are arranged in size from top left (largest) to bottom right (smallest)._
 * Coxcomb chart
+* Waffle plot (aka Grid plot)
 
 ### Spacial
 * Choropleth map (aka Heat Map, Filled Map, Thematic Map, Statistical Map)
