@@ -137,7 +137,9 @@ Data Visualization
 ## Videos
 * [Using Design Techniques for Clear and Appealing Data Visualization ~4min](https://www.youtube.com/watch?v=0Smgm2UTUSo) - nullQueries
 
-
+## Learning
+* [Learning Data Visualization](https://www.linkedin.com/learning/learning-data-visualization-15572314) - Bill Shander (LinkedIn Learning)
+  
 ### Books
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
 * [Jonathan Schwabish (PolicyViz)](https://policyviz.com/books/)
