@@ -32,6 +32,12 @@ Data Visualization
   * Tip! Rotate = Normal distribution
 * Violin Plot
   * Tip! Violin = Box Plot + Mirrored KDE Plot
+* Dot Plot
+* Strip Plot
+* Swarm Plot
+  - Scatter Plot + Categorical X → Dot Plot
+  - Dot Plot + Distribution Across Categories → Strip Plot
+  - Strip Plot + Jittering with Collision Avoidance → Swarm Plot
     
 ### Part to whole (Compositions)
 `Shows the relationship of parts to the whole by dividing the data into segments.`
