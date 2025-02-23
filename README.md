@@ -49,6 +49,7 @@ Data Visualization
   * _Uses rectangles to visualizes the proportions between each part and the whole. The rectangles are arranged in size from top left (largest) to bottom right (smallest)._
 * Coxcomb chart
 * Waffle plot (aka Grid plot)
+* Waterfall (aka flying bricks chart or Mario chart)
 
 ### Spacial
 * Choropleth map (aka Heat Map, Filled Map, Thematic Map, Statistical Map)
