@@ -147,17 +147,18 @@ Data Visualization
 ## Learning
 * [Learning Data Visualization](https://www.linkedin.com/learning/learning-data-visualization-15572314) - Bill Shander (LinkedIn Learning)
   
+
+
+-----
 ### Books
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
 * [Jonathan Schwabish (PolicyViz)](https://policyviz.com/books/)
-
------
 
 ### People
 * [William Playfair](https://www.historyofinformation.com/detail.php?id=2527)
 * [W.E.B. Du Bois](https://www.britannica.com/biography/W-E-B-Du-Bois)
 * Henry Goddard
 * Ed Hawkins
-* Bill Shander
+* [Bill Shander](https://billshander.com/)
 * [Jon Schwabish](https://www.youtube.com/@JonSchwabish)
 
