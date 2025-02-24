@@ -129,6 +129,7 @@ Data Visualization
 * [Bar Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/bar-charts-focus-comprehensive-guide-effective-naji-el-kotob-6lbqf/)
 * [Line Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/line-charts-focus-comprehensive-guide-effective-naji-el-kotob-fwsnf)
 * [Pie Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/pie-charts-focus-comprehensive-guide-effective-naji-el-kotob-g7h0f)
+* [Scatter Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/scatter-charts-focus-comprehensive-guide-effective-naji-el-kotob-tht0f)
 
 ### Illusion
 * [Akiyoshi Kitaoka](https://x.com/AkiyoshiKitaoka) - @AkiyoshiKitaoka 🐤
