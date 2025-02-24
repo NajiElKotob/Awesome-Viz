@@ -128,6 +128,7 @@ Data Visualization
 * [Unlocking the Potential of Power BI's Built-In Visuals](https://www.linkedin.com/pulse/unlocking-potential-power-bis-built-in-visuals-naji-el-kotob-sdi7f/) - Naji El Kotob
 * [Bar Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/bar-charts-focus-comprehensive-guide-effective-naji-el-kotob-6lbqf/)
 * [Line Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/line-charts-focus-comprehensive-guide-effective-naji-el-kotob-fwsnf)
+* [Pie Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/pie-charts-focus-comprehensive-guide-effective-naji-el-kotob-g7h0f)
 
 ### Illusion
 * [Akiyoshi Kitaoka](https://x.com/AkiyoshiKitaoka) - @AkiyoshiKitaoka 🐤
