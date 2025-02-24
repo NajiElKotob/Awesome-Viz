@@ -161,4 +161,5 @@ Data Visualization
 * Ed Hawkins
 * [Bill Shander](https://billshander.com/)
 * [Jon Schwabish](https://www.youtube.com/@JonSchwabish)
+* Steve Wexler
 
