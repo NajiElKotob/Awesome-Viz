@@ -151,6 +151,7 @@ Data Visualization
   
 ### Colors
 * [AI Colors](https://aicolors.co/) - aicolors.co
+* [Power BI Theme Generator](https://powerbithemegenerator.bibb.pro/) - powerbithemegenerator.bibb.pro
 
 -----
 ### Books
