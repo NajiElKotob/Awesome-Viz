@@ -143,13 +143,14 @@ Data Visualization
 * [Interpreting Data Visualizations: The basics: Home](https://guides.zsr.wfu.edu/interpretdataviz) - wfu.edu
 * [Interpreting Graphs and Charts](https://uen.pressbooks.pub/uvumqr/chapter/4-4-reading-and-interpreting-graphs-and-charts/) - Numeracy
 
-## Videos
+### Videos
 * [Using Design Techniques for Clear and Appealing Data Visualization ~4min](https://www.youtube.com/watch?v=0Smgm2UTUSo) - nullQueries
 
-## Learning
+### Learning
 * [Learning Data Visualization](https://www.linkedin.com/learning/learning-data-visualization-15572314) - Bill Shander (LinkedIn Learning)
   
-
+### Colors
+* [AI Colors](https://aicolors.co/) - aicolors.co
 
 -----
 ### Books
