@@ -152,7 +152,7 @@ Data Visualization
 ### Learning
 * [Learning Data Visualization](https://www.linkedin.com/learning/learning-data-visualization-15572314) - Bill Shander (LinkedIn Learning)
   
-### Colors
+### Colors and Themes
 * [AI Colors](https://aicolors.co/) - aicolors.co
 * [Power BI Theme Generator](https://powerbithemegenerator.bibb.pro/) - powerbithemegenerator.bibb.pro
 
