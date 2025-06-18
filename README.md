@@ -110,6 +110,7 @@ Data Visualization
 * [The Right Stuff: Chart Types and Visualization Best (and Worst) Practices](https://hbr.org/webinar/2018/02/the-right-stuff-chart-types-and-visualization-best-and-worst-practices) - hbr.org
 * [Five charts that changed the world 📺](https://www.youtube.com/watch?v=CqkCUDesG5o) - BBC Ideas
 * [Data Visualization Tips For More Effective And Engaging Design](https://www.tableau.com/learn/articles/data-visualization-tips) ⭐ - tableau.com
+* [SwD Chart Guide](https://www.storytellingwithdata.com/chart-guide) - storytellingwithdata.com
 
 ### Ideas and Inspiration
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - public.tableau.com | See new and inspiring data visualizations featured every weekday
