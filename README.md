@@ -127,6 +127,7 @@ Data Visualization
 * [What is data visualization?](https://www.ibm.com/topics/data-visualization) - ibm.com
 * [Using atomic design in report and model development](https://www.sqlbi.com/articles/using-atomic-design-in-report-and-model-development) - sqlbi.com
 * [Understanding the F-Shaped and Z-shaped Reading Patterns for Optimal Usability in Complex Systems](https://medium.com/uxd-critical-software/understanding-the-f-shaped-and-z-shaped-reading-patterns-for-optimal-usability-in-complex-systems-e96668839abd) - Pedro M. S. Duarte
+* [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](https://thork.people.uic.edu/fair/cleveland&mcgill_jasa84.pdf) - thork.people.uic.edu | Cleveland and McGill 
 
 #### Charts in Focus
 * [Unlocking the Potential of Power BI's Built-In Visuals](https://www.linkedin.com/pulse/unlocking-potential-power-bis-built-in-visuals-naji-el-kotob-sdi7f/) - Naji El Kotob
