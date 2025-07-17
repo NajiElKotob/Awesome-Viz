@@ -160,6 +160,7 @@ Data Visualization
 ### Colors and Themes
 * [AI Colors](https://aicolors.co/) - aicolors.co
 * [Power BI Theme Generator](https://powerbithemegenerator.bibb.pro/) - powerbithemegenerator.bibb.pro
+* [Theme Starter](https://datatraining.io/powerbi-theme-starter) - datatraining.io
 
 -----
 ### Books
