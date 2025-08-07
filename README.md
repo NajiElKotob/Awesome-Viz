@@ -112,6 +112,7 @@ Data Visualization
 * [Five charts that changed the world 📺](https://www.youtube.com/watch?v=CqkCUDesG5o) - BBC Ideas
 * [Data Visualization Tips For More Effective And Engaging Design](https://www.tableau.com/learn/articles/data-visualization-tips) ⭐ - tableau.com
 * [SwD Chart Guide](https://www.storytellingwithdata.com/chart-guide) - storytellingwithdata.com
+* [Chart types for every need](https://www.datawrapper.de/charts) - datawrapper.de
 
 ### Ideas and Inspiration
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - public.tableau.com | See new and inspiring data visualizations featured every weekday
@@ -121,7 +122,6 @@ Data Visualization
 * [What’s Going On in This Graph? | U.S. Temperature Trends](https://www.nytimes.com/2022/12/07/learning/whats-going-on-in-this-graph-dec-14-2022.html) - nytimes.com
 
 ### Articles
-* [Which visualization types did you create this year? | 2013 – 2023](https://blog.datawrapper.de/popular-chart-types-2023/) - datawrapper.de
 * [Actual Vs. Budget: Which visualization is most effective?](https://powerbi.microsoft.com/en-ca/blog/actual-vs-budget-which-chart-is-effective/) - powerbi.microsoft.com | Miranda Li
 * [Visualizing Incomplete and Missing Data](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/) - flowingdata.com
 * [What is data visualization?](https://www.ibm.com/topics/data-visualization) - ibm.com
