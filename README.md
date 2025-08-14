@@ -17,7 +17,7 @@ Data Visualization
 * Line chart (aka Line graph or Line plot) – Best for showing trends over time, especially when you have many data points. They are useful for tracking changes in one or more series of data.
 * Area chart (aka Shaded line chart, mountain chart, filled line chart)
 * Slope chart
-* Stream graph (aka ThemeRiver)
+* Stream graph (ThemeRiver-Like)
 * Candlestick chart
 * Warming stripes
   
