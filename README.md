@@ -167,6 +167,7 @@ Data Visualization
 ### Books
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
 * [Jonathan Schwabish (PolicyViz)](https://policyviz.com/books/)
+* [THE COMMERCIAL AND POLITICAL ATLAS | PLAYFAIR William (1759-1823)](https://archive.org/details/PLAYFAIRWilliam1801TheCommercialandPoliticalAtlas/page/n3/mode/2up) - archive.org
 
 ### People
 * [William Playfair](https://www.historyofinformation.com/detail.php?id=2527)
