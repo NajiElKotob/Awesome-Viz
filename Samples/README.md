@@ -7,3 +7,4 @@
 1. [Pie Charts in Focus](https://www.linkedin.com/pulse/pie-charts-focus-comprehensive-guide-effective-naji-el-kotob-g7h0f) 🍩
 1. [Scatter Charts in Focus](https://www.linkedin.com/pulse/scatter-charts-focus-comprehensive-guide-effective-naji-el-kotob-tht0f)
 1. [Waterfall Charts in Focus](https://www.linkedin.com/pulse/waterfall-charts-focus-comprehensive-guide-effective-naji-el-kotob-nuy4f/)
+2. [Area Charts in Focus](https://www.linkedin.com/pulse/area-charts-focus-comprehensive-guide-effective-naji-el-kotob-ejx5f/)
