@@ -95,6 +95,7 @@ Data Visualization
 
 ## Open Source Viz
 * Vega
+  - [Vega-Lite Example Gallery](https://vega.github.io/vega-lite/examples/) - vega.github.io
 * [D3.js](https://d3js.org/) - d3js.org
 * [Apache ECharts](https://echarts.apache.org) - echarts.apache.org
 * [deck.gl](https://deck.gl/) - deck.gl | deck.gl is a GPU-powered framework for visual exploratory data analysis of large datasets.
