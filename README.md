@@ -72,6 +72,9 @@ Data Visualization
 * Table
 * Matrix
 
+### KPI
+* Speedometer (aka Angular Gauge)
+  
 ### Statistical Process Control (SPC)
 `Control Chart (also known as a Shewhart Chart or Process-Behavior Chart). Control charts are widely used in statistical process control to monitor, control, and improve process performance over time.`
 * XmR chart (Individuals and Moving Range chart) - Monitors individual data points and their moving range.
