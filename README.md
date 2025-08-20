@@ -118,6 +118,7 @@ Data Visualization
 * [SwD Chart Guide](https://www.storytellingwithdata.com/chart-guide) - storytellingwithdata.com
 * [Chart types for every need](https://www.datawrapper.de/charts) - datawrapper.de
 * [The Ebb and Flow of Movies: Box Office Receipts 1986 — 2008](https://archive.nytimes.com/www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.html) - nytimes.com | Mathew Bloch, Lee Byron, Shan Carter and Amanda Cox
+* [Mastering data charts: A comprehensive guide to visualization](https://www.atlassian.com/data/charts) - atlassian.com
 
 ### Ideas and Inspiration
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - public.tableau.com | See new and inspiring data visualizations featured every weekday
