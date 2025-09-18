@@ -137,12 +137,12 @@ Data Visualization
 * [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](https://thork.people.uic.edu/fair/cleveland&mcgill_jasa84.pdf) - thork.people.uic.edu | Cleveland and McGill 
 
 #### Charts in Focus
-* [Unlocking the Potential of Power BI's Built-In Visuals](https://www.linkedin.com/pulse/unlocking-potential-power-bis-built-in-visuals-naji-el-kotob-sdi7f/) - Naji El Kotob
-* [Bar Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/bar-charts-focus-comprehensive-guide-effective-naji-el-kotob-6lbqf/)
-* [Line Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/line-charts-focus-comprehensive-guide-effective-naji-el-kotob-fwsnf)
-* [Pie Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/pie-charts-focus-comprehensive-guide-effective-naji-el-kotob-g7h0f)
-* [Scatter Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/scatter-charts-focus-comprehensive-guide-effective-naji-el-kotob-tht0f)
-* [Waterfall Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/waterfall-charts-focus-comprehensive-guide-effective-naji-el-kotob-nuy4f/)
+1. [Unlocking the Potential of Power BI's Built-In Visuals](https://www.linkedin.com/pulse/unlocking-potential-power-bis-built-in-visuals-naji-el-kotob-sdi7f/) - Naji El Kotob
+1. [Bar Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/bar-charts-focus-comprehensive-guide-effective-naji-el-kotob-6lbqf/)
+1. [Line Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/line-charts-focus-comprehensive-guide-effective-naji-el-kotob-fwsnf)
+1. [Pie Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/pie-charts-focus-comprehensive-guide-effective-naji-el-kotob-g7h0f)
+1. [Scatter Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/scatter-charts-focus-comprehensive-guide-effective-naji-el-kotob-tht0f)
+1. [Waterfall Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/waterfall-charts-focus-comprehensive-guide-effective-naji-el-kotob-nuy4f/)
 
 ### Illusion
 * [Akiyoshi Kitaoka](https://x.com/AkiyoshiKitaoka) - @AkiyoshiKitaoka 🐤
@@ -160,7 +160,7 @@ Data Visualization
 * [Using Design Techniques for Clear and Appealing Data Visualization ~4min](https://www.youtube.com/watch?v=0Smgm2UTUSo) - nullQueries
 * [Jon Schwabish](https://www.youtube.com/@JonSchwabish/playlists) - JonSchwabish (PolicyViz)
   - [One Chart at a Time](https://www.youtube.com/playlist?list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-)
-
+* [Using pie charts is not the end of the world](https://www.youtube.com/watch?v=NzR0PoeLcRg) - SQLBI
 
 ### Learning
 * [Learning Data Visualization](https://www.linkedin.com/learning/learning-data-visualization-15572314) - Bill Shander (LinkedIn Learning)
