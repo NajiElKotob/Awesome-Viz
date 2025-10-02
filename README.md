@@ -162,6 +162,9 @@ Data Visualization
   - [One Chart at a Time](https://www.youtube.com/playlist?list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-)
 * [Using pie charts is not the end of the world](https://www.youtube.com/watch?v=NzR0PoeLcRg) - SQLBI
 
+#### Design Awesome Reports
+* [Upgrade Your REPORT DESIGN in Power BI | Complete Walkthrough From A to Z 📺 ~33min](https://www.youtube.com/watch?v=Lfzu74XDyco) - How to Power BI
+
 ### Learning
 * [Learning Data Visualization](https://www.linkedin.com/learning/learning-data-visualization-15572314) - Bill Shander (LinkedIn Learning)
   
