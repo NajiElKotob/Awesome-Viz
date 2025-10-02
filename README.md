@@ -88,7 +88,7 @@ Data Visualization
 -----
 ## Data Visualization Tools
 * Power BI
-* Tableau
+* [Tableau](https://www.tableau.com/) - tableau.com
 * Qlik
 * Looker Studio
 * [Maptitude](https://www.caliper.com/maptsamp.htm) - caliper.com | Maptitude GIS and mapping software is the most capable and cost-effective map maker.
