@@ -165,6 +165,7 @@ Data Visualization
 #### Design Awesome Reports
 * [Upgrade Your REPORT DESIGN in Power BI | Complete Walkthrough From A to Z 📺 ~33min](https://www.youtube.com/watch?v=Lfzu74XDyco) - How to Power BI
 * [5 DESIGN TRICKS that Make EVERY Power BI Report Look GREAT!](https://www.youtube.com/watch?v=v6fP8gyCLLc) - How to Power BI
+* [Want a BEAUTIFUL Power BI Report? Start here!](https://www.youtube.com/watch?v=pKkav_W-jiQ) - Guy in a Cube
 
 ### Learning
 * [Learning Data Visualization](https://www.linkedin.com/learning/learning-data-visualization-15572314) - Bill Shander (LinkedIn Learning)
