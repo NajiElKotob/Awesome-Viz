@@ -87,7 +87,7 @@ Data Visualization
 
 -----
 ## Data Visualization Tools
-* Power BI
+* [Power BI](https://www.powerbi.com) - powerbi.com
 * [Tableau](https://www.tableau.com/) - tableau.com
 * Qlik
 * Looker Studio
