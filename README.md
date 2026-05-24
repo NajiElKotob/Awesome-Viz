@@ -127,6 +127,7 @@ Data Visualization
 * [Dribbble (Dashboard)](https://dribbble.com/search/dashboard) - dribbble.com
 * [Figma (Dashboard Design)](https://www.figma.com/templates/dashboard-designs/) - figma.com
 * [What’s Going On in This Graph? | U.S. Temperature Trends](https://www.nytimes.com/2022/12/07/learning/whats-going-on-in-this-graph-dec-14-2022.html) - nytimes.com
+* [The Chart Doctor](https://www.ft.com/chart-doctor) - ft.com
 
 ### Articles
 * [Actual Vs. Budget: Which visualization is most effective?](https://powerbi.microsoft.com/en-ca/blog/actual-vs-budget-which-chart-is-effective/) - powerbi.microsoft.com | Miranda Li
