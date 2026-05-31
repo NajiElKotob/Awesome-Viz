@@ -177,6 +177,7 @@ Data Visualization
 * [Power BI Theme Generator](https://powerbithemegenerator.bibb.pro/) - powerbithemegenerator.bibb.pro
 * [Theme Starter](https://datatraining.io/powerbi-theme-starter) - datatraining.io
 * [Color for data visualization](https://spectrum.adobe.com/page/color-for-data-visualization/) - spectrum.adobe.com
+* [Introduction to the viridis color maps](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) - cran.r-project.org
 
 -----
 ### Books
