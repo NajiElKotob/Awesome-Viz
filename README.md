@@ -186,6 +186,9 @@ Data Visualization
 * [Jonathan Schwabish (PolicyViz)](https://policyviz.com/books/)
 * [THE COMMERCIAL AND POLITICAL ATLAS | PLAYFAIR William (1759-1823)](https://archive.org/details/PLAYFAIRWilliam1801TheCommercialandPoliticalAtlas/page/n3/mode/2up) - archive.org
 
+### Tools
+* [Flourish](https://flourish.studio/) - flourish.studio
+
 ### People
 * [William Playfair](https://www.historyofinformation.com/detail.php?id=2527)
 * [W.E.B. Du Bois](https://www.britannica.com/biography/W-E-B-Du-Bois)
