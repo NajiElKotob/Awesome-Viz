@@ -188,6 +188,8 @@ Data Visualization
 
 ### Tools
 * [Flourish](https://flourish.studio/) - flourish.studio
+* [Quadratic Charts](https://www.quadratichq.com/ai/charts) - quadratichq.com | AI Chart Generator
+
 
 ### People
 * [William Playfair](https://www.historyofinformation.com/detail.php?id=2527)
