@@ -93,6 +93,8 @@ Data Visualization
 * Qlik
 * Looker Studio
 * [Maptitude](https://www.caliper.com/maptsamp.htm) - caliper.com | Maptitude GIS and mapping software is the most capable and cost-effective map maker.
+* [Apache ECharts](https://echarts.apache.org/) - echarts.apache.org | An Open Source JavaScript Visualization Library
+
 
 ## Open Source Viz
 * Vega
