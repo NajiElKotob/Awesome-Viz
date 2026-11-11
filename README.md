@@ -148,6 +148,9 @@ Data Visualization
 1. [Scatter Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/scatter-charts-focus-comprehensive-guide-effective-naji-el-kotob-tht0f)
 1. [Waterfall Charts in Focus — A Comprehensive Guide to Effective Visualization](https://www.linkedin.com/pulse/waterfall-charts-focus-comprehensive-guide-effective-naji-el-kotob-nuy4f/)
 
+### Visual Vocabulary
+* [FT Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) - ft.com
+
 ### Illusion
 * [Akiyoshi Kitaoka](https://x.com/AkiyoshiKitaoka) - @AkiyoshiKitaoka 🐤
 * [Optical Illusions and Data Visualization](https://www.cleartelligence.com/post/optical-illusions-and-data-visualization) - cleartelligence.com
