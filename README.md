@@ -150,6 +150,7 @@ Data Visualization
 
 ### Visual Vocabulary
 * [FT Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/) - ft.com
+* [The Graphic Continuum](https://www.severinoribecca.one/portfolio-item/the-graphic-continuum/) - severinoribecca.one | The Graphic Continuum was originally a research project by Jon Schwabish who runs PolicyViz. 
 
 ### Illusion
 * [Akiyoshi Kitaoka](https://x.com/AkiyoshiKitaoka) - @AkiyoshiKitaoka 🐤
